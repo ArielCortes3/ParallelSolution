@@ -1,0 +1,5 @@
+﻿  ParallelSolution.cpp
+C:\Users\jesus\source\repos\proyectosOMP\ParallelSolution\ParallelSolution.cpp(18,12): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jesus\source\repos\proyectosOMP\ParallelSolution\ParallelSolution.cpp(19,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  pch.cpp
+  ParallelSolution.vcxproj -> C:\Users\jesus\source\repos\proyectosOMP\ParallelSolution\x64\Debug\ParallelSolution.exe
